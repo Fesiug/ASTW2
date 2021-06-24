@@ -1,0 +1,14 @@
+{
+	"title" :	"ASTW2 but it has fucking lag compensation",
+	"type"  :	"weapon",
+	"tags"  :	[],
+	"ignore":
+	[
+		"*.cmd",
+		"*.ini",
+		"*.lnk",
+		"*.url",
+		"astw2_-_arctic's_simple_thirdperson_weapons_2.0_1392703845.jpg",
+		"astw2_-_arctic's_simple_thirdperson_weapons_2.0_1392703845.png"
+	]
+}

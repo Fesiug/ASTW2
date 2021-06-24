@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\Weapons\w_models/w_m202/flash_3"
+	"$additive" 1
+	"$model" 1
+
+}

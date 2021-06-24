@@ -1,0 +1,4 @@
+VertexLitGeneric
+{
+$baseTexture "models\weapons\w_models\mini14\v_sniper_reference.vtf"
+}

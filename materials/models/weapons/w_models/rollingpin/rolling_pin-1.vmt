@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/weapons/w_models/rollingpin/rolling_pin-1"
+	"$surfaceprop" "wood"
+}
